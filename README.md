@@ -3,8 +3,10 @@
 This repository contains a workflow for enhancing and segmenting chest X-ray images using techniques like CLAHE for contrast enhancement and algorithms (Otsu's thresholding, region growing, snake) for lung segmentation. Built in Python with OpenCV, scikit-image, and Matplotlib, it includes a Jupyter notebook with GUIs and a PowerPoint presentation.
 
 ![hippo](media/image_analysis.gif)
-![hippo](media/image_analysis1.gif)
-![hippo](media/image_analysis2.gif)
+
+![hippo](media/image_analysis_1.gif)
+
+![hippo](image_analysis_2.gif)
 
 ## Overview
 
